@@ -2,13 +2,17 @@
 
 This app build using React.js and [OpenWeatherMap](https://openweathermap.org/) API.
 
+# Hosted link
+
+https://weather-forecast-app-clone.netlify.app/
+
 # External libraries used in project
 
--@emotion/react
--@emotion/styled
--@mui/icons-material
--@mui/material
--react-select-async-paginate
+@emotion/react : Simple styling in React.
+@emotion/styled : The styled API for @emotion/react.
+@mui/icons-material : This package provides the Google Material Icons converted to SvgIcon components.
+@mui/material : Material UI provides an optional CssBaseline component.
+react-select-async-paginate : Async function that take next arguments: Current value of search input. Loaded options for current search. Collected additional data.
 
 # Getting Started with Create React App
 
