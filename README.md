@@ -1,3 +1,15 @@
+# Weather App
+
+This app build using React.js and [OpenWeatherMap](https://openweathermap.org/) API.
+
+# External libraries used in project
+
+-@emotion/react
+-@emotion/styled
+-@mui/icons-material
+-@mui/material
+-react-select-async-paginate
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
